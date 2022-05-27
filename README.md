@@ -45,5 +45,6 @@ Learning at now time
 About my Github:
 ___
 
-![trophy](https://github-profile-trophy.vercel.app/?username=basterrus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basterrus&layout=compact)](https://github.com/basterrus/basterrus)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=basterrus)
