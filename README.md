@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on Java & Golang Developer
 - 👀 I've been writing in python for one year
 - 📫 I'm learning new things everyday.
--  :construction_worker:   i am looking for a job  python or fullstack developer  
+-  :construction_worker:   i am looking for a job  python/golang or fullstack developer  
 
 
 
