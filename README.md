@@ -1,7 +1,7 @@
 ## Hi, I’m Pavel @basterrus <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30"/> 
 - 🌱 I’m python/golang developer
 - 🌱 I’m currently learning on Java & Golang Developer
-- 👀 I've been writing in python for one year
+- 👀 I have been writing in python since 2020
 - 📫 I'm learning new things everyday.
 -  :construction_worker:   i am looking for a job  python/golang or fullstack developer  
 
