@@ -2,7 +2,6 @@
 - 🌱 i am FullStack developer on python, java and golang programming language
 - 👀 I have been writing in python since 2020
 - 📫 I'm learning new things everyday.
--  :construction_worker:   i am looking for a job  python/golang or fullstack developer  
 
 
 
