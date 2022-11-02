@@ -1,32 +1,9 @@
-<style>
-    .main_div{
-        width: 100%;
-        height: 500px;
-        display: flex;
-    }
-    .common_text {
-        margin-left: 50px ;
-        margin-top: 50px ;
-    }
-    
-    .main_text {
-        font-size: 48px;
-    }
-    .common_text_other {
-        font-size: 24px;
-    }
-</style>
-<div class="main_div">
-    <img src="background/background.png" alt="img"/>
-    <div class="common_text">
+<div class="common_text">
         <h1 class="main_text">Hi! I am Pavel</h1>
         <p class="common_text_other">🌱 i am FullStack developer on python, 
         java and golang programming language</p>
         <p class="common_text_other">👀 I have been writing in python since 2020</p>
         <p class="common_text_other">📫 I'm learning new things everyday.</p>
-    </div>
-    
-
 </div>
 
 
