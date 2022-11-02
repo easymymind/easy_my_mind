@@ -36,8 +36,10 @@ Tools
 ![img](https://camo.githubusercontent.com/63d5edbb98bb4d51cdb7d146516f0450ad73c889fa76f042f06813edd8c691cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e)
 
 Learning at now time      
-![img](https://camo.githubusercontent.com/8f1415549de66af4328b655e3240ec5050a11b501f744c4d40c9b93d3fb0bd08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d474f4c414e472d677265793f7374796c653d666c61742d737175617265266c6f676f3d676f) JAVA
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50px/>
+          
+          
 ## About my Github:
 ![-](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basterrus&theme=nord_dark)
 ![-](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basterrus&theme=nord_dark)
