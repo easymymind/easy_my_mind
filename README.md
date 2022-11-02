@@ -1,43 +1,27 @@
-
-<div class="main_div">
-    <img src="background/background.png" alt="img"/>
-    <div class="common_text">
-        <h1 class="main_text">Hi! I am Pavel</h1>
-        <p class="common_text_other">🌱 i am FullStack developer on python, 
-        java and golang programming language</p>
-        <p class="common_text_other">👀 I have been writing in python since 2020</p>
-        <p class="common_text_other">📫 I'm learning new things everyday.</p>
-    </div>
-    
-
-</div>
-
-
-
 # 🛠️ Skills
 ## Back-End
 
-><img src="icons/lang/python-original-wordmark.svg" width=80px alt="python"/> 
-> <img src="icons/frameworks/django-plain.svg" width=80px alt="django"/> 
-<img src="icons/frameworks/pngegg.png" width=100px alt="pngegg"/>  
-<img src="icons/frameworks/fastapi-original-wordmark.svg" width=80px alt="fastapi"/>  
-<img src="icons/frameworks/flask-original-wordmark.svg" width=80px alt="flask"/>  
-<img src="icons/lang/go-original-wordmark.svg" width=80px alt="go"/> 
-<img src="icons/lang/java-original-wordmark.svg" width=80px alt="java"/>
+><img src="icons/lang/python-original-wordmark.svg" width=80px alt="python"/>
+><img src="icons/frameworks/django-plain.svg" width=80px alt="django"/>
+><img src="icons/frameworks/pngegg.png" width=100px alt="pngegg"/>
+><img src="icons/frameworks/fastapi-original-wordmark.svg" width=80px alt="fastapi"/>
+><img src="icons/frameworks/flask-original-wordmark.svg" width=80px alt="flask"/>
+><img src="icons/lang/go-original-wordmark.svg" width=80px alt="go"/>
+><img src="icons/lang/java-original-wordmark.svg" width=80px alt="java"/>
 
 ## Databases
-><img src="icons/db/postgresql-original-wordmark.svg" width=80px alt="postgres"/>  
-<img src="icons/db/redis-original-wordmark.svg"  width=80px alt="redis"/>  
-<img src="icons/db/mongodb-original-wordmark.svg"  width=80px alt="mongo"/>  
-<img src="icons/db/sqlite-original-wordmark.svg"  width=80px alt="sqlite"/>
+><img src="icons/db/postgresql-original-wordmark.svg" width=80px alt="postgres"/>
+><img src="icons/db/redis-original-wordmark.svg"  width=80px alt="redis"/>
+><img src="icons/db/mongodb-original-wordmark.svg"  width=80px alt="mongo"/>
+><img src="icons/db/sqlite-original-wordmark.svg"  width=80px alt="sqlite"/>
+
 
 ## Front-end
-
-><img src="icons/lang/html5-original-wordmark.svg"  width=80px alt="sqlite"/> 
-<img src="icons/lang/css3-original-wordmark.svg"  width=80px alt="sqlite"/> 
-<img src="icons/lang/bootstrap-plain-wordmark.svg"  width=80px alt="sqlite"/> 
-<img src="icons/lang/react-original-wordmark.svg"  width=80px alt="sqlite"/> 
-<img src="icons/lang/javascript-original.svg"  width=80px alt="sqlite"/>
+><img src="icons/lang/html5-original-wordmark.svg"  width=80px alt="sqlite"/>
+><img src="icons/lang/css3-original-wordmark.svg"  width=80px alt="sqlite"/>
+><img src="icons/lang/bootstrap-plain-wordmark.svg"  width=80px alt="sqlite"/>
+><img src="icons/lang/react-original-wordmark.svg"  width=80px alt="sqlite"/>
+><img src="icons/lang/javascript-original.svg"  width=80px alt="sqlite"/>
 
 ## Tools
 ><img src="icons/ide/PyCharm_icon.svg" width=80px/> 
