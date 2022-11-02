@@ -1,21 +1,4 @@
-<style>
-    .main_div{
-        width: 100%;
-        height: 500px;
-        display: flex;
-    }
-    .common_text {
-        margin-left: 50px ;
-        margin-top: 50px ;
-    }
-    
-    .main_text {
-        font-size: 48px;
-    }
-    .common_text_other {
-        font-size: 24px;
-    }
-</style>
+
 <div class="main_div">
     <img src="background/background.png" alt="img"/>
     <div class="common_text">
