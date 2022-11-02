@@ -1,4 +1,6 @@
-# 🛠️ Skills
+<img src="background/background.png" width=350px alt="python"/>     
+
+## 🛠️ Skills
 ## Back-End
 
 ><img src="icons/lang/python-original-wordmark.svg" width=50px alt="python"/>
