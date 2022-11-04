@@ -1,42 +1,51 @@
-## 🛠️ Skills
-### Back-End
-
-><img src="icons/lang/python-original-wordmark.svg" width=50px alt="python"/> 
-><img src="icons/frameworks/django-plain.svg" width=50px alt="django"/> 
-><img src="icons/frameworks/pngegg.png" width=80px alt="pngegg"/> 
-><img src="icons/frameworks/fastapi-original-wordmark.svg" width=50px alt="fastapi"/> 
-><img src="icons/frameworks/flask-original-wordmark.svg" width=50px alt="flask"/> 
-><img src="icons/lang/go-original-wordmark.svg" width=50px alt="go"/> 
-><img src="icons/lang/java-original-wordmark.svg" width=50px alt="java"/>
-
-### Databases
-><img src="icons/db/postgresql-original-wordmark.svg" width=50px alt="postgres"/>  
-><img src="icons/db/redis-original-wordmark.svg"  width=50px alt="redis"/>  
-><img src="icons/db/mongodb-original-wordmark.svg"  width=50px alt="mongo"/>  
-><img src="icons/db/sqlite-original-wordmark.svg"  width=50px alt="sqlite"/>
+# HI EVERYONE!  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30"/>
 
 
-### Front-end
-><img src="icons/lang/html5-original-wordmark.svg"  width=50px alt="sqlite"/>  
-><img src="icons/lang/css3-original-wordmark.svg"  width=50px alt="sqlite"/>  
-><img src="icons/lang/bootstrap-plain-wordmark.svg"  width=50px alt="sqlite"/>  
-><img src="icons/lang/react-original-wordmark.svg"  width=50px alt="sqlite"/>  
-><img src="icons/lang/javascript-original.svg"  width=50px alt="sqlite"/>
+[//]: # (<img align="right" alt="sumit" width="34px" src="https://camo.githubusercontent.com/86a86a4b6d81d2cd2b6bab9063632eb8dffdf92b5bc25d8f9c2a29e850e861e9/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696b652e706e67" data-canonical-src="https://img.icons8.com/bubbles/50/000000/like.png" style="max-width: 100%;">)
+## 🛠️ SKILLS
+___
+
+### BackEnd
+<img src="https://img.shields.io/badge/PYTHON-333333?style=for-the-badge&logo=PYTHON&logoColor=3776AB" alt="LOGO"/>
+<img src="https://img.shields.io/badge/DJANGO-333333?style=for-the-badge&logo=DJANGO&logoColor=092E20" alt="LOGO"/>
+<img src="https://img.shields.io/badge/DJANGO_REST_FRAMEWORK-333333?style=for-the-badge&logo=PYTHON&logoColor=FFFFFF" alt="LOGO"/>
+<img src="https://img.shields.io/badge/DJANGO_CHANNELS-333333?style=for-the-badge&logo=PYTHON&logoColor=FFFFFF" alt="LOGO"/>
+<img src="https://img.shields.io/badge/FAST API-333333?style=for-the-badge&logo=FASTAPI&logoColor=009688" alt="LOGO"/>
+<img src="https://img.shields.io/badge/FLASK-333333?style=for-the-badge&logo=FLASK&logoColor=FFFFFF" alt="LOGO"/>
+<img src="https://img.shields.io/badge/GO-333333?style=for-the-badge&logo=GO&logoColor=00ADD8" alt="LOGO"/>
+<img src="https://img.shields.io/badge/JAVA-333333?style=for-the-badge&logo=&logoColor=00ADD8" alt="LOGO"/>
+
+### Database
+<img src="https://img.shields.io/badge/POSTGRESQL-333333?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" alt="LOGO"/>
+<img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=MYSQL&logoColor=4479A1" alt="LOGO"/>
+<img src="https://img.shields.io/badge/REDIS-333333?style=for-the-badge&logo=REDIS&logoColor=DC382D" alt="LOGO"/>
+<img src="https://img.shields.io/badge/MONGODB-333333?style=for-the-badge&logo=MONGODB&logoColor=47A248" alt="LOGO"/>
+
+### FrontEnd
+<img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=#E34F26" alt="LOGO"/>
+<img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="LOGO"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-333333?style=for-the-badge&logo=BOOTSTRAP&logoColor=#7952B3" alt="LOGO"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-333333?style=for-the-badge&logo=JAVASCRIPT&logoColor=#F7DF1E" alt="LOGO"/>
+<img src="https://img.shields.io/badge/REACT-333333?style=for-the-badge&logo=REACT&logoColor=#61DAFB" alt="LOGO"/>
 
 ### Tools
-><img src="icons/ide/PyCharm_icon.svg" width=50px/> 
-<img src="icons/ide/GoLand_icon.svg" width=50px/> 
-> <img src="icons/ide/IntelliJ_IDEA_icon.svg" width=50px/> 
-> <img src="icons/ide/WebStorm_icon.svg" width=50px/> 
-> <img src="icons/vsc/github-original.svg" width=50px/> 
-> <img src="icons/vsc/git-original-wordmark.svg" width=50px/> 
-> <img src="icons/vsc/gitlab-original-wordmark.svg" width=50px/> 
-> <img src="icons/tools/postman-seeklogo.com.svg" width=50px/> 
-> <img src="icons/tools/docker-original-wordmark.svg" width=50px/>  
-> <img src="icons/tools/nginx-original.svg" width=50px/>
+<img src="https://img.shields.io/badge/PYCHARM-333333?style=for-the-badge&logo=PYCHARM&logoColor=#000000" alt="LOGO"/>
+<img src="https://img.shields.io/badge/GoLand-333333?style=for-the-badge&logo=GoLand&logoColor=#000000" alt="LOGO"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-333333?style=for-the-badge&logo=IntelliJ IDEA&logoColor=#000000" alt="LOGO"/>
+<img src="https://img.shields.io/badge/WebStorm-333333?style=for-the-badge&logo=WebStorm&logoColor=#000000" alt="LOGO"/>
+<img src="https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=GIT&logoColor=#F05032" alt="LOGO"/>    
+<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=GitHub&logoColor=#F05032" alt="LOGO"/>    
+<img src="https://img.shields.io/badge/GitLab-333333?style=for-the-badge&logo=GitLab&logoColor=#FC6D26" alt="LOGO"/>    
+<img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=Docker&logoColor=2496ED" alt="LOGO"/>
+<img src="https://img.shields.io/badge/postman-333333?style=for-the-badge&logo=Postman&logoColor=FF6C37" alt="LOGO"/>
+<img src="https://img.shields.io/badge/NGINX-333333?style=for-the-badge&logo=NGINX&logoColor=009639" alt="LOGO"/>
 
-### About my Github:
+### Operating System
+<img src="https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=Windows&logoColor=0078D6" alt="LOGO"/>
+<img src="https://img.shields.io/badge/macOS-333333?style=for-the-badge&logo=macOS&logoColor=#000000" alt="LOGO"/>
+<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=Linux&logoColor=#FCC624" alt="LOGO"/>
 
+### Summary info about my Github profile:
 ![-](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basterrus&theme=nord_dark)
 ![-](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basterrus&theme=nord_dark)
 ![-](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basterrus&theme=nord_dark)
@@ -46,4 +55,5 @@
 ### Achievement
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Other
 ![img](background/github-user-contribution.svg)
