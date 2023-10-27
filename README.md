@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=Windows&logoColor=0078D6" alt="LOGO"/> <img src="https://img.shields.io/badge/macOS-333333?style=for-the-badge&logo=macOS&logoColor=#000000" alt="LOGO"/> <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=Linux&logoColor=#FCC624" alt="LOGO"/>
 
 ## :heavy_check_mark: Summary info about my Github profile:
-![-](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basterrus&theme=nord_dark)
-![-](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basterrus&theme=nord_dark)
-![-](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basterrus&theme=nord_dark)
-![-](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basterrus&theme=nord_dark)
-![-](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basterrus&theme=nord_dark)
+![-](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paul-stitch&theme=nord_dark)
+![-](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paul-stitch&theme=nord_dark)
+![-](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paul-stitch&theme=nord_dark)
+![-](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paul-stitchrus&theme=nord_dark)
+![-](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paul-stitch&theme=nord_dark)
 
 ### Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
