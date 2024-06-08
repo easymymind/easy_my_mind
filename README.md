@@ -3,7 +3,7 @@
 # Hi everyone!
 - 🌱 I’m backend (full stack) developer on python, golang and java lang
 - 🐾 I like interesting tasks
-- 👷 At now time i work as a developer Rustack LLC
+- 👷 At now time i work as a developer Basis tech
 - 👯 I'm learning new things everyday.
 
 ## <img src="https://user-images.githubusercontent.com/74137018/200009885-976f538f-cc1b-4944-9b3e-a86587dc59a5.png" width="30px" /> My background
