@@ -34,3 +34,9 @@
 
 ### Other
 ![img](background/github-user-contribution.svg)
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/easymymind">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=easymymind&color=blue">
+   </a>
+</div>
